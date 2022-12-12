@@ -115,6 +115,7 @@ h3 {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  justify-content: center;
 }
 
 #contact {
@@ -148,4 +149,8 @@ h3 {
   height: 54px;
   background: #fff;
   color: #30BFBA;
+}
+
+.skill-item{
+  margin: 0 48px;
 }
